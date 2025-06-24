@@ -69,16 +69,16 @@ I specialize in building scalable, high-performance solutions across web develop
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Recent Featured Projects
 
 ### 🌤️ [Weather MCP Server](https://github.com/Krytons/Weather-MCP-Server)
-A production-ready Model Context Protocol (MCP) server built with TypeScript
+A PoC Model Context Protocol (MCP) server built with TypeScript
 - **Tech Stack**: TypeScript, Express.js, OpenWeatherMap API
 - **Features**: Dual transport modes (stdio/HTTP), extensible architecture, API versioning
 - **Role**: Tech Leader, Architecture and Implementation
 
 ### 🖥️ [Weather MCP Client](https://github.com/Krytons/Weather-MCP-Client)
-Modern web client demonstrating MCP protocol integration
+PoC web client demonstrating MCP protocol integration
 - **Tech Stack**: Remix, React, TypeScript, Tailwind CSS
 - **Features**: Server-side rendering, Anthropic Claude integration, responsive design
 - **Role**: Tech Leader, Architecture and Implementation
