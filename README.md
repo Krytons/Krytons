@@ -69,33 +69,34 @@ I specialize in building scalable, high-performance solutions across web develop
 
 ---
 
-## 🔥 Recent Featured Projects
+## 🔥 Featured Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+
+  <div style="flex: 1 1 400px; min-width: 280px; max-width: 100%; box-sizing: border-box;">
 
 ### 🌤️ [Weather MCP Server](https://github.com/Krytons/Weather-MCP-Server)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=krytons\&repo=Weather-MCP-Server\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
+![Card](https://github-readme-stats.vercel.app/api/pin?username=krytons&repo=Weather-MCP-Server&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 A production-ready Model Context Protocol (MCP) server built with TypeScript
 - **Tech Stack**: TypeScript, Express.js, OpenWeatherMap API
 - **Features**: Dual transport modes (stdio/HTTP), extensible architecture, API versioning
 - **Role**: Tech Leader, Architecture and Implementation
 
+  </div>
+
+  <div style="flex: 1 1 400px; min-width: 280px; max-width: 100%; box-sizing: border-box;">
+
 ### 🖥️ [Weather MCP Client](https://github.com/Krytons/Weather-MCP-Client)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=krytons\&repo=Weather-MCP-Client\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
+![Card](https://github-readme-stats.vercel.app/api/pin?username=krytons&repo=Weather-MCP-Client&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 Modern web client demonstrating MCP protocol integration
 - **Tech Stack**: Remix, React, TypeScript, Tailwind CSS
 - **Features**: Server-side rendering, Anthropic Claude integration, responsive design
 - **Role**: Tech Leader, Architecture and Implementation
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Bartolomeo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krytons&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krytons&layout=compact&theme=radical&hide_border=true)
+  </div>
 
 </div>
 
