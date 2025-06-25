@@ -153,7 +153,7 @@ I'm always interested in discussing:
   
 ![Bartolomeo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krytons&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Krytons&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Krytons&layout=compact&theme=radical&hide_border=true&size_weight=0&count_weight=1&exclude_repo=dotfiles))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krytons&layout=compact&theme=radical&hide_border=true&size_weight=0&count_weight=1&exclude_repo=dotfiles)
 
 </div>
 
